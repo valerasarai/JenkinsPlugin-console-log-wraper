@@ -1,4 +1,4 @@
-# Console Navigation
+# Console Log Wrap
 
 Wrapping or unwrapping the console output info. Useful if you have console logs with large inline data.  
 
@@ -18,5 +18,5 @@ Jenkins
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details
 
-![un-wrap-sample](\images\unwrap.png "UN-WRAP")
-![wrap-sample](\images\wrap.png "WRAP")
+![un-wrap-sample](/images/unwrap.png "UN-WRAP")
+![wrap-sample](/images/wrap.png "WRAP")
