@@ -2,9 +2,11 @@
 
 Wrapping or unwrapping the console output info. Useful if you have console logs with large inline data.  
 
-[//]: # (## Getting Started)
-[//]: # ()
-[//]: # (Search for console-log-wraper in the jenkins plugin repository and install it. That's it!)
+## Install
+
+1. User Jenkins Plugin Manager to install custom plugins at: ```Dashboard > Manage Jenkins > Plugins / Advanced settings```
+2. Look for **Deploy Plugin** section.
+3. Use ```console-log-wraper-1.0.hpi``` package and press **Deploy** 
 
 ### Prerequisites
 
@@ -18,5 +20,11 @@ Jenkins
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details
 
+
+
+
+## Preview
+
 ![un-wrap-sample](/images/unwrap.png "UN-WRAP")
 ![wrap-sample](/images/wrap.png "WRAP")
+
